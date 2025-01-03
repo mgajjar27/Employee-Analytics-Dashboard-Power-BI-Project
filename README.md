@@ -1,5 +1,6 @@
 # Employee Analytics Dashboard-Power BI Project
 This Power BI project visualizes key HR metrics and employee data, providing actionable insights for workforce planning, performance evaluation, and retention strategies. The dashboard highlights patterns in employee attrition, satisfaction, and performance across different dimensions such as age, salary, job role, and education.
+
 ![image](https://github.com/user-attachments/assets/b8dcfadd-4aa6-4f09-88b5-917156da00c2)
 
 
